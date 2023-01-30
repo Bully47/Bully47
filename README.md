@@ -13,7 +13,7 @@
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 * [![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Atom](https://img.shields.io/badge/IDE-Atom-white?style=flat&logo=Atom&logoColor=white)](https://www.vim.org/)
-[![Visual Studio Code](https://img.shields.io/badge/IDE-VisualStudioCode-white?style=flat&logo=visualstudiocode&logoColor=white)](https://www.vim.org/)
+[![Visual Studio Code](https://img.shields.io/badge/IDE-Visual Studio Code-white?style=flat&logo=visualstudiocode&logoColor=white)](https://www.vim.org/)
 
 
 
