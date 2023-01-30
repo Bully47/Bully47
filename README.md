@@ -17,6 +17,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual_Studio_Code-white?style=flat&logo=visualstudiocode&logoColor=white)](https://www.vim.org/)
 
 
-
 ## :chart_with_upwards_trend: My Stats on GitHub:
 <a href="https://github.com/Bully47?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=Bully47&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bully47&layout=compact&theme=algolia" /></a>
+
+
+## :art: My Main Projects:
+<a href="https://github.com/Bully47/Cook_Recipes"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=Cook_recipes&theme=algolia&show_icons=true" /> </a>
