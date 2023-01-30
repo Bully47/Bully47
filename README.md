@@ -4,6 +4,7 @@
 ## :wrench: My Skills:
 * [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=javascript)
 [![React](https://img.shields.io/badge/Language-React-yellow?style=flat&logo=React&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=react)
+[![Angular](https://img.shields.io/badge/Language-Angular-yellow?style=flat&logo=Angular&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=angular)
 [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=python)
 [![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=Bash)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
