@@ -5,7 +5,7 @@
 * [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=Bash)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
+* [![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 
 
 
