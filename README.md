@@ -22,4 +22,4 @@
 
 
 ## :art: My Main Projects:
-<a href="https://github.com/Bully47/Cook_Recipes"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=Cook_recipes&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/Bully47/React_Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=React_Facturier&theme=algolia&show_icons=true" /> </a>
+<a href="https://github.com/Bully47/Cook_Recipes"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=Cook_recipes&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/Bully47/React_Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=React_Facturier&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/Bully47/QRTour"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Bully47&repo=QRTour&theme=algolia&show_icons=true" /> </a>
