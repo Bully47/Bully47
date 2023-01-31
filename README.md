@@ -8,8 +8,10 @@
 [![EJS](https://img.shields.io/badge/Language-EJS-yellow?style=flat&logo=EJS&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=ejs)
 [![NodeJS](https://img.shields.io/badge/Language-NodeJS-yellow?style=flat&logo=Node.js&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=nodejs)
 [![ExpressJS](https://img.shields.io/badge/Language-ExpressJS-yellow?style=flat&logo=Express&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=expressjs)
-[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=python)
 [![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=Bash)
+[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/Language-C-yellow?style=flat&logo=C&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=C)
+
 * [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-yellow?style=flat&logo=MongoDB&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=mongodb)
 [![Firebase](https://img.shields.io/badge/DataBase-Firebase-yellow?style=flat&logo=Firebase&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=firebase)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
