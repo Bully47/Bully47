@@ -1,4 +1,5 @@
-[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-green?style=flat&logo=gravatar&logoColor=white)]()
+[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-green?style=flat&logo=gravatar&logoColor=white)](https://fr.linkedin.com/in/vivien-huc-44048b25a)
+* [![Hackathon Participant](https://img.shields.io/badge/Hackathon-Participant-brightgreen.svg?style=flat-square&logo=simpleicon:hammer-wrench)](https://www.hackathon.com)
 
 
 ## :wrench: My Skills:
