@@ -1,6 +1,4 @@
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-green?style=flat&logo=gravatar&logoColor=white)](https://fr.linkedin.com/in/vivien-huc-44048b25a)
-* [![Hackathon Participant](https://img.shields.io/badge/Hackathon-Participant-brightgreen.svg?style=flat-square&logo=simpleicon:hammer-wrench)](https://www.hackathon.com)
-
 
 ## :wrench: My Skills:
 * [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://ejs.co/)
@@ -24,6 +22,8 @@
 * [![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://fr.wikipedia.org/wiki/Vim)
 [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual_Studio_Code-white?style=flat&logo=visualstudiocode&logoColor=white)](https://fr.wikipedia.org/wiki/Visual_Studio_Code)
 [![Atom](https://img.shields.io/badge/IDE-Atom-white?style=flat&logo=Atom&logoColor=white)](https://fr.wikipedia.org/wiki/Atom_(%C3%A9diteur_de_texte))
+* [![XP](https://img.shields.io/badge/XP-Hackathon-brightgreen.svg?style=flat-square&logo=hammer-wrench)]
+* [![XP](https://img.shields.io/badge/XP-42-brightgreen.svg?style=flat-square&logo=42)](https://42.fr/)
 
 
 ## :chart_with_upwards_trend: My Stats on GitHub:
