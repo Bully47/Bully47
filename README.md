@@ -4,7 +4,7 @@
 ## :wrench: My Skills:
 * [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=javascript)
 [![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=Bash)
-[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C-yellow?style=flat&logo=C&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=C)
 * [![React](https://img.shields.io/badge/Framework-React-red?style=flat&logo=react&logoColor=white)](https://fr.reactjs.org/)
 [![AngularJS](https://img.shields.io/badge/Framework-AngularJS-red?style=flat&logo=AngularJS&logoColor=white)](https://angularjs.org/)
