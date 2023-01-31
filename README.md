@@ -14,7 +14,7 @@
 [![EJS](https://img.shields.io/badge/Framework-EJS-red?style=flat&logo=EJS&logoColor=white)]([https://expressjs.com/fr/](https://ejs.co/))
 * [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![macOS](https://img.shields.io/badge/OS-macOS-blue?style=flat&logo=macOS&logoColor=white)](https://fr.wikipedia.org/wiki/MacOS)
-[![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat&logo=Kali_Linux&logoColor=white)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat&logo=KaliLinux&logoColor=white)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat&logo=Debian&logoColor=white)](https://www.debian.org/index.fr.html)
 [![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=Ubuntu&logoColor=white)](https://www.ubuntu-fr.org/)
 * [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-yellow?style=flat&logo=MongoDB&logoColor=white)](https://fr.wikipedia.org/wiki/MongoDB)
