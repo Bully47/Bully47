@@ -33,7 +33,7 @@
 <a href="https://github.com/VivienHuc/Cook_Recipes"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=Cook_recipes&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/React_Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=React_Facturier&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/QRTour"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=QRTour&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=Facturier&theme=algolia&show_icons=true" /> </a>
 
 ## :earth_africa: Connect with Me:
-[<img align="left" alt="codeSTACKr | LinkedIn" style="fill:white;" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" />][linkedin]
 
 [linkedin]: https://fr.linkedin.com/in/vivien-huc-44048b25a
 
