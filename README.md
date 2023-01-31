@@ -29,10 +29,10 @@
 ## :chart_with_upwards_trend: My Stats on GitHub:
 <a href="https://github.com/VivienHuc?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=VivienHuc&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivienHuc&layout=compact&theme=algolia" /></a>
 
-
 ## :art: My Main Projects:
 <a href="https://github.com/VivienHuc/Cook_Recipes"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=Cook_recipes&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/React_Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=React_Facturier&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/QRTour"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=QRTour&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/VivienHuc/Facturier"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=VivienHuc&repo=Facturier&theme=algolia&show_icons=true" /> </a>
 
-
 ## :earth_africa: Connect with Me:
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][https://fr.linkedin.com/in/vivien-huc-44048b25a]
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][Linkedin]
+[Linkedin]: https://fr.linkedin.com/in/vivien-huc-44048b25a
+
