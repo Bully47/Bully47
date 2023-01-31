@@ -3,14 +3,14 @@
 
 ## :wrench: My Skills:
 * [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://github.com/Bully47?tab=repositories&q=&type=&language=javascript)
-[![Angular](https://img.shields.io/badge/Language-Angular-yellow?style=flat&logo=Angular&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=angular)
-[![NodeJS](https://img.shields.io/badge/Language-NodeJS-yellow?style=flat&logo=Node.js&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=nodejs)
-[![ExpressJS](https://img.shields.io/badge/Language-ExpressJS-yellow?style=flat&logo=Express&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=expressjs)
-[![EJS](https://img.shields.io/badge/Language-EJS-yellow?style=flat&logo=EJS&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=ejs)
 [![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=Bash)
 [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C-yellow?style=flat&logo=C&logoColor=white)](https://github.com/VivienHuc?tab=repositories&q=&type=&language=C)
 * [![React](https://img.shields.io/badge/Framework-React-red?style=flat&logo=react&logoColor=white)](https://fr.reactjs.org/)
+[![AngularJS](https://img.shields.io/badge/Framework-AngularJS-red?style=flat&logo=AngularJS&logoColor=white)](https://angularjs.org/)
+[![NodeJS](https://img.shields.io/badge/Framework-NodeJS-red?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
+[![ExpressJS](https://img.shields.io/badge/Framework-ExpressJS-red?style=flat&logo=Express&logoColor=white)](https://expressjs.com/fr/)
+[![EJS](https://img.shields.io/badge/Framework-EJS-red?style=flat&logo=EJS&logoColor=white)]([https://expressjs.com/fr/](https://ejs.co/))
 * [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![macOS](https://img.shields.io/badge/OS-macOS-blue?style=flat&logo=macOS&logoColor=white)](https://fr.wikipedia.org/wiki/MacOS)
 [![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat&logo=Kali_Linux&logoColor=white)](https://www.kali.org/)
