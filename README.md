@@ -12,6 +12,8 @@
 [![NodeJS](https://img.shields.io/badge/Framework-NodeJS-red?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![ExpressJS](https://img.shields.io/badge/Framework-ExpressJS-red?style=flat&logo=Express&logoColor=white)](https://expressjs.com/fr/)
 [![EJS](https://img.shields.io/badge/Framework-EJS-red?style=flat&logo=EJS&logoColor=white)]([https://expressjs.com/fr/](https://ejs.co/))
+* [![CMS](https://img.shields.io/badge/CMS-Wordpress-white?style=flat&logo=Wordpress&logoColor=white)](https://woocommerce.com/)
+[![CMS](https://img.shields.io/badge/CMS-WooCommerce-white?style=flat&logo=WooCommerce&logoColor=white)](https://fr.wordpress.org/)
 * [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![macOS](https://img.shields.io/badge/OS-macOS-blue?style=flat&logo=macOS&logoColor=white)](https://fr.wikipedia.org/wiki/MacOS)
 [![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat&logo=KaliLinux&logoColor=white)](https://www.kali.org/)
@@ -26,7 +28,6 @@
 [![Atom](https://img.shields.io/badge/IDE-Atom-white?style=flat&logo=Atom&logoColor=white)](https://fr.wikipedia.org/wiki/Atom_(%C3%A9diteur_de_texte))
 * [![XP](https://img.shields.io/badge/XP-Hackathon-white?style=flat&logo=Hackaton&logoColor=white)](https://fr.wikipedia.org/wiki/Hackathon)
 [![XP](https://img.shields.io/badge/XP-42-white?style=flat&logo=42&logoColor=white)](https://42.fr/)
-
 
 ## :chart_with_upwards_trend: My Stats on GitHub:
 <a href="https://github.com/VivienHuc?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=VivienHuc&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivienHuc&layout=compact&theme=algolia" /></a>
